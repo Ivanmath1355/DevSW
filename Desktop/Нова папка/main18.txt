@@ -7,7 +7,7 @@ def print_hello_world():
 
 print_hello_world()
 def Vivamechmat():
-    print("Viva Mech-mat faculty")
+    print("Viva Mech-mat faculty!!!")
 
 
 Vivamechmat()
